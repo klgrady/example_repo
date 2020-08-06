@@ -1,4 +1,4 @@
-//Hello, I'm Core
+//Hello, I'm Core.
 #include <stdio.h>
 
 int main() {
