@@ -1,3 +1,7 @@
+/*
+  This is a Hello World program.
+*/
+
 #include <stdio.h>
 
 int main() {
