@@ -1,5 +1,5 @@
 # example_repo
-An example repo for learning purposes
+An example repo for Github hands on training
 # Add Your username
 Edit this file to add your Github username here:
 1. kerri-leigh
