@@ -1,3 +1,4 @@
+// This is a test comment
 #include <stdio.h>
 
 int main() {
