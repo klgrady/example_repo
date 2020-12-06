@@ -1,4 +1,5 @@
 /* hello world example in C*/
+/* test2 */
 #include <stdio.h>
 
 int main() {
