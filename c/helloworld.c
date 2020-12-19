@@ -1,3 +1,7 @@
+/*Hello Word Example in C
+by Taner
+*/
+
 #include <stdio.h>
 
 int main() {
