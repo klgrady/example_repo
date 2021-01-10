@@ -1,3 +1,6 @@
+/*Hello world example in C*/
+/*Changed*/
+
 #include <stdio.h>
 
 int main() {
