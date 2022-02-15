@@ -4,4 +4,7 @@ An example repo for learning purposes
 Edit this file to add your Github username here:
 1. kerri-leigh
 2. anonymous
-3. 
+3. sendo
+
+Example forked from Coursera Guided Project and cloned to Takashi Sendo local Mac.
+Adding changes at remote repo to check how "pull" works.
