@@ -7,3 +7,4 @@ Edit this file to add your Github username here:
 3. sendo
 
 Example forked from Coursera Guided Project and cloned to Takashi Sendo local Mac.
+Adding changes at remote repo.
