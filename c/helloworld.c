@@ -1,5 +1,5 @@
-/* Hello World example in C*/
-/* Hello World example in C22*/
+/* Hello World example in C*/q
+
 #include <stdio.h>
 
 int main() {
