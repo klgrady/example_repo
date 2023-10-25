@@ -1,3 +1,5 @@
+/*Adding a comment to C file*/
+
 #include <stdio.h>
 
 int main() {
