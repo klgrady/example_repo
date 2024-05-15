@@ -1,3 +1,4 @@
+/* Hello world */
 #include <stdio.h>
 
 int main() {
