@@ -1,3 +1,5 @@
+/* note added com*/
+
 #include <stdio.h>
 
 int main() {
