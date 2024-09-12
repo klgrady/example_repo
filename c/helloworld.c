@@ -1,3 +1,5 @@
+/* Hello World example in C*/q
+
 #include <stdio.h>
 
 int main() {
